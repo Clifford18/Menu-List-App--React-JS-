@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# Menu Web Page
+ A web page for a restaurant to show the menu list available at the restaurant.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

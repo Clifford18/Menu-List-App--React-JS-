@@ -1,0 +1,48 @@
+body {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  background: white;
+}
+
+.container {
+  width: 98vw;
+  height: 98vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  box-shadow: 4px 8px 16px 0 rgba(0, 0, 0, 0.4);
+  background: #4A627A;
+  padding: 20px;
+  margin: 50px;
+  min-width: 320px;
+  min-height: 500px;
+  transition: 1s;
+  overflow: scroll;
+  width: 70%;
+  height: 70vw;
+  max-width: 80vh;
+  max-height: 80vh;
+  position: relative;
+  border-radius: 10px;
+}
+
+.wrapper .firstUL {
+  transform: translateX(-90px);
+}
+.wrapper h1 {
+  color: white;
+}
+ .checkbox {
+  display: flex;
+  align-items: center;
+  transform: translate(60px);
+  margin: 10px;
+}
+.checkbox__label {
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+}
